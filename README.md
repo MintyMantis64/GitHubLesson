@@ -13,9 +13,9 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Research location:** Torgersen, Biscoe, Dream 
 
-**Sample size:** 344
+**Sample size:** 344 SO MANY 
 
-**Years of data collection:** 2007-2009
+**Years of data collection:** aw hellllll nawwww not 2007-2009
 
 ## Variables Measured
 
