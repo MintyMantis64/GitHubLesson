@@ -13,9 +13,9 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Research location:** Torgersen, Biscoe, Dream 
 
-**Sample size:** 344
+**Sample size:** 344 SO MANY 
 
-**Years of data collection:** 2007-2009
+**Years of data collection:** aw hellllll nawwww not 2007-2009
 
 ## Variables Measured
 
@@ -23,10 +23,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | 34.1 - 55.9 |
-| `bill_depth_mm` | 13.1 - 21.5 |
-| `flipper_length_mm` | 230 is big |
-| `body_mass_g` | 6300 chunky penguin |
+| `bill_length_mm` | asjdcbL,HDCBqjcbJW,HC,qedb |
+| `bill_depth_mm` | AHHHHHHHHHHHHHHH |
+| `flipper_length_mm` | [TODO:  range] |
+| `body_mass_g` | [TODO: Include ] |
 
 ## What the Analysis Does
 
